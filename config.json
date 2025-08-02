@@ -1,0 +1,14 @@
+{
+    "num_urls": 5,
+    "timeout": 10,
+    "max_workers": 5,
+    "retries": 3,
+    "output_format": "json",
+    "output_fields": [
+        "url",
+        "title",
+        "description",
+        "full_content"
+    ],
+    "search_engine": "google"
+}
